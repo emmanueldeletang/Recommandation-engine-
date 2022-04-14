@@ -29,6 +29,7 @@ To run this sample, you'll need:
 > - An AWS account where you will create 
 >  
 >     A AWS Neptune cluster with a notebook like describe below : https://docs.aws.amazon.com/neptune/latest/userguide/graph-notebooks.html
+>     load the jupyter notebook attach in the repository and change the connnection neptune url , and all should be run 
 >      
 > 
 
